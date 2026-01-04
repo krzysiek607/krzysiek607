@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krzysiek607
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning html, css and js and ability to use all Git apps, JIRA and WebStorm app
+- 🌱 I’m currently learning html, css and js and python and ability to use all Git apps
 - 💞️ I’m looking to collaborate on learning of programming
 - 📫 Text me here and I will be able to respond asap.
 
