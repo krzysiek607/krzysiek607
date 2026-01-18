@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @krzysiek607
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning html, css and js and python and ability to use all Git apps
-- 💞️ I’m looking to collaborate on learning of programming
-- 📫 Text me here and I will be able to respond asap.
+- 🌱 AI apps creator
+- 💞️ 
+- 📫 
 
 <!---
 krzysiek607/krzysiek607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
